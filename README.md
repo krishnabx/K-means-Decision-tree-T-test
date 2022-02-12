@@ -1,3 +1,3 @@
-# K means,Decision tree, & T-test
+# K means,Decision tree & T-test
  
  
